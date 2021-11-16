@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![github-large](https://github.com/cocodibuja/cocodibuja/blob/main/image_01.JPG?raw=true)
 <!--
 **cocodibuja/cocodibuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
